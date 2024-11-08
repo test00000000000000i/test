@@ -858,7 +858,7 @@ nav .search-box button {
     
     .gallery h3 {
         text-align: left; 
-         font-family: 'Abhaya Libre ExtraBold', serif;
+         
     }
 
  
@@ -886,11 +886,16 @@ nav .search-box button {
         padding: 0 20px 10px;
        
     }
-    .artist-gallery {
+    .artist-gallery-container h3{
+            font-family: 'Abhaya Libre ExtraBold', serif;
+
+    }
    
         gap: 30px;
        
     }
+    .artist-gallery h3{
+    
     
   .Mnewsletter{
     display: flex;
