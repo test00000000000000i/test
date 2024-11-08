@@ -1,3 +1,4 @@
+
 /* Global Reset */
 
 
@@ -188,7 +189,7 @@ nav .search-box button {
 }
 
 .hero-img {
-    max-width: 60%;
+    width: 60%;
     margin-top: 10px;
     
 }
@@ -735,7 +736,7 @@ nav .search-box button {
         cursor: pointer;
         color: #666;
         font-size: 1em;
-        margin-left: -60px;
+        margin-left: -80px;
     }
 
     .sidebar .search-box {
@@ -780,17 +781,18 @@ nav .search-box button {
     }
 
     .slide img {
-        width: 80%;
-        height: 45%;
+        width: 300px;
+        height: 200px;
         margin-bottom: 30px;
     }
    
 
     .slide h2 {
-        font-size: 64px;
+        font-size: 36px;
         margin-bottom: 10px;
         text-align: center;
         margin-top: 10px;
+        margin-right: -10%;
         
     }
 
@@ -799,6 +801,7 @@ nav .search-box button {
         line-height: 1.5;
         margin-bottom: 10px;
         text-align: center;
+        margin-right: -10%;
     }
    
   
@@ -894,7 +897,7 @@ nav .search-box button {
     color:#273353 ;
     margin-right: 58px;
     text-align: left;
-    
+
 
 }
 
@@ -1067,4 +1070,5 @@ margin-bottom: 10%;
 }
   
 
+    
     
